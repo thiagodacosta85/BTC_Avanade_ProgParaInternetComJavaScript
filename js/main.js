@@ -1,13 +1,48 @@
 
+function clicou(){
+    document.getElementById("agradecimento")
+    //console.log(document.getElementById("agradecimento"));
+    //alert("Este botão recebeu um click.")
+}
+
+/*
+function soma(n1, n2)
+    {
+        return n1+n2;
+    }
+
+
+function validaIdade(idade)
+{
+    var validar;
+    if (idade >= 18){
+        validar = true
+    }else{
+        validar = false
+    }
+    return validar;
+}
+
+var idade = prompt("Qual sua idade?");
+console.log(validaIdade(idade));
+*/
+
+
+//código errado acima, a aula do tutor é péssima.
+
+
+//alert(setReplace("Vai Japão", "Japão", "Brasil"));
 
 
 
+
+/*
 var d = new Date();
 //console.log(d);
 //alert(d);
 alert(d.getMonth()+1);
 alert(d.getMinutes());
-
+*/
 
 /*
 var count;
